@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on a All-in-one Productivity tools called "AtomicTask" That keep track of all your Tasks and all area of life.
 - 🌱 I’m currently learning Frontend such as React.js and vue.js while building a project.
 - 📫 How to reach me: lyjing978@gmail.com.
+
+## Languages and Tools
 <!--
 **Jing-lean/Jing-lean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
