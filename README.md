@@ -13,6 +13,7 @@
 <img align="left" alt="Javascript Icon" width="30px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" />
 <img align="left" alt="Node.js Icon" width="30px" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" />
 <img align="left" alt="react.js Icon" width="30px" src="https://www.svgrepo.com/show/452092/react.svg" />
+<img align="left" alt="tailwind Icon" width="30px" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
 <!--
 **Jing-lean/Jing-lean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
