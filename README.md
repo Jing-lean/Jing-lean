@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on a All-in-one Productivity tools called "AtomicTask" That allow you to keep track of all your Tasks and all area of life.
+- 🌱 I’m currently learning Frontend such as React.js and vue.js while building a project.
+- 📫 How to reach me: lyjing978@gmail.com
 <!--
 **Jing-lean/Jing-lean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
