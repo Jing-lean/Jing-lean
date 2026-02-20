@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Frontend such as React.js and vue.js while building a project.
 - 📫 How to reach me: lyjing978@gmail.com.
 
+
 ## Languages and Tools
 <img align="left" alt="VScode Icon" width="30px" src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" />
 <img align="left" alt="Git Icon" width="30px" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" />
