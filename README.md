@@ -5,6 +5,7 @@
 - 📫 How to reach me: lyjing978@gmail.com.
 
 ## RO Monitoring Demo
+My first full stack project.
 https://ro-monitoring.pages.dev/
 
 ## Languages and Tools
