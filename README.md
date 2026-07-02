@@ -3,9 +3,7 @@
 - 🔭 I’m currently working on a All-in-one Productivity tools called "AtomicTask" That keep track of all your Tasks and all area of life.
 - 🌱 I’m currently learning Frontend such as React.js and Next.js while building a project.
 - 📫 How to reach me: lyjing978@gmail.com.
-
-## RO Monitoring Demo
-My first full stack project.
+- ⚡ My first full stack project:
 https://ro-monitoring.pages.dev/
 
 ## Languages and Tools
