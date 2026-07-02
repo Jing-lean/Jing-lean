@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on a All-in-one Productivity tools called "AtomicTask" That keep track of all your Tasks and all area of life.
-- 🌱 I’m currently learning Frontend such as React.js and vue.js while building a project.
+- 🌱 I’m currently learning Frontend such as React.js and Next.js while building a project.
 - 📫 How to reach me: lyjing978@gmail.com.
 
 
